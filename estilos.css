@@ -6,6 +6,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url('imagenes/45EA9F9F-1EA4-444A-B04C-521AA9EA4D2C.jpeg');
     background-size: cover;
     background-position: center;
     position: relative; /* Asegura que html y body sean contenedores de posicionamiento */
