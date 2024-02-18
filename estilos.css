@@ -18,7 +18,7 @@ body:before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('imagenes/45EA9F9F-1EA4-444A-B04C-521AA9EA4D2C.jpeg'), url('imagenes/IMG_0003.jpeg');
+    background-image: url('45EA9F9F-1EA4-444A-B04C-521AA9EA4D2C.jpeg')
     background-size: cover;
     background-position: center;
     opacity: 0.5; /* Ajusta la opacidad para que el texto sea legible */
